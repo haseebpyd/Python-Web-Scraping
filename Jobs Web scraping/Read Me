@@ -1,0 +1,12 @@
+This scrpaer scrap the all the jobs posted on teacheron.com
+
+Libraries Used:
+
+- urllib.request
+- beautifulsoup
+- pandas 
+- re
+
+Properties:
+
+-It scrape the title, location and describtion of jobs
