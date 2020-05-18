@@ -1,0 +1,13 @@
+Complete documentation is avalible on my website.
+http://www.visionprogrammer.com/2020/05/python-web-scraping-beautifulsoup.html
+
+Libraries I used:
+
+- Requests
+- BeautifulSoup4
+- Pandas
+
+Properties:
+
+- Extract 1000 rows of books data from 50 web pages
+- The result is stored in .csv excel file
